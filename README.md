@@ -1,0 +1,2 @@
+# configs
+springcloud学习config组件时存放配置文件的仓库
